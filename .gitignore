@@ -1,0 +1,8 @@
+*log 
+DIR/
+db.accdb
+
+(ye sari log files ko ignore kar dega)
+ye  sabhi dir ke ander ke content ko ignore karega
+
+/DIR/ ye command akele outer DIR KO IGNORE KAREGI AND STATIC/DIR YE static ke dir ko ignore karegi
